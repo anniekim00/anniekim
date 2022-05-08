@@ -1,0 +1,186 @@
+[
+	{
+		"ProductId": "1",
+		"ProductName": "Americano",
+		"GraphicName": "Americano.png",
+		"CostPrice": "4",
+		"MSRP": "5",
+		"QtyOnHand": "875",
+		"QtyOnBackOrder": "50",
+		"Description": "Espresso shots topped with hot water create a light layer of crema culminating in this wonderfully rich cup with depth and nuance.",
+		"Brand": "Starbucks"
+	},	
+	{
+		"ProductId": "2",
+		"ProductName": "Cappuccino",
+		"GraphicName": "Cappuccino.png",
+		"CostPrice": "5",
+		"MSRP": "6",
+		"QtyOnHand": "434",
+		"QtyOnBackOrder": "43",
+		"Description": "Dark, rich espresso lies in wait under a smoothed and stretched layer of thick milk foam. An alchemy of barista artistry and craft.",
+		"Brand": "Starbucks"
+	},	
+	{
+		"ProductId": "3",
+		"ProductName": "Café-latte",
+		"GraphicName": "Café-latte.png",
+		"CostPrice": "5",
+		"MSRP": "6",
+		"QtyOnHand": "554",
+		"QtyOnBackOrder": "56",
+		"Description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+		"Brand": "Starbucks"
+	},	
+	{
+		"ProductId": "4",
+		"ProductName": "Macchiato",
+		"GraphicName": "Macchiato.png",
+		"CostPrice": "6",
+		"MSRP": "7",
+		"QtyOnHand": "52",
+		"QtyOnBackOrder": "32",
+		"Description": "Freshly steamed milk with vanilla-flavoured syrup marked with espresso and topped with a caramel drizzle for an oh-so-sweet finish.",
+		"Brand": "Starbucks"
+	},	
+	{
+		"ProductId": "5",
+		"ProductName": "Mocha",
+		"GraphicName": "Mocha.png",
+		"CostPrice": "6",
+		"MSRP": "7",
+		"QtyOnHand": "112",
+		"QtyOnBackOrder": "44",
+		"Description": "Our rich, full-bodied espresso combined with bittersweet mocha sauce and steamed milk, then topped with sweetened whipped cream. The classic coffee drink that always sweetly satisfies.",
+		"Brand": "Starbucks"
+	},
+	{
+		"ProductId": "6",
+		"ProductName": "Coffee-Frappuccino",
+		"GraphicName": "Coffee-Frappuccino.png",
+		"CostPrice": "6",
+		"MSRP": "7",
+		"QtyOnHand": "69",
+		"QtyOnBackOrder": "29",
+		"Description": "Coffee meets milk and ice in a blender for a rumble-and-tumble togetherness to create one of our most-beloved original Frappuccino® blended beverages.",
+		"Brand": "Coffee bean"
+	},
+	{
+		"ProductId": "7",
+		"ProductName": "Strawberry Crème-Frappuccino",
+		"GraphicName": "Strawberry Crème-Frappuccino.png",
+		"CostPrice": "7",
+		"MSRP": "8",
+		"QtyOnHand": "256",
+		"QtyOnBackOrder": "74",
+		"Description": "Summer's favourite berry is the star of this delicious Frappuccino® Blended Beverage—a blend of ice, milk and strawberry puree layered on top of a splash of strawberry puree and finished with vanilla whipped cream.",
+		"Brand": "Coffee bean"
+	},
+	{
+		"ProductId": "8",
+		"ProductName": "Mocha-Frappuccino",
+		"GraphicName": "Mocha-Frappuccino.png",
+		"CostPrice": "8",
+		"MSRP": "9",
+		"QtyOnHand": "200",
+		"QtyOnBackOrder": "37",
+		"Description": "Mocha sauce, Frappuccino® Roast coffee, milk and ice all come together for a mocha flavour that'll leave you wanting more. To change things up, try it affogato-style with a hot espresso shot poured right over the top.",
+		"Brand": "Coffee bean"
+	},
+	{
+		"ProductId": "9",
+		"ProductName": "Java Chip-Frappuccino",
+		"GraphicName": "Java Chip-Frappuccino.png",
+		"CostPrice": "8",
+		"MSRP": "9",
+		"QtyOnHand": "164",
+		"QtyOnBackOrder": "85",
+		"Description": "We blend mocha sauce and Frappuccino® chips with coffee, milk and ice, then top it off with whipped cream and a mocha drizzle to bring you endless java joy.",
+		"Brand": "Coffee bean"
+	},
+	{
+		"ProductId": "10",
+		"ProductName": "Vanilla Bean Crème-Frappuccino",
+		"GraphicName": "Vanilla Bean Crème-Frappuccino.png",
+		"CostPrice": "9",
+		"MSRP": "10",
+		"QtyOnHand": "334",
+		"QtyOnBackOrder": "39",
+		"Description": "This rich and creamy blend of vanilla bean, milk and ice topped with whipped cream takes va-va-vanilla flavour to another level. To change things up, try it affogato-style with a hot espresso shot poured right over the top.",
+		"Brand": "Coffee bean"
+	},
+	{
+		"ProductId": "11",
+		"ProductName": "Chai-Tea",
+		"GraphicName": "Chai-Tea.png",
+		"CostPrice": "7",
+		"MSRP": "8",
+		"QtyOnHand": "320",
+		"QtyOnBackOrder": "78",
+		"Description": "Black tea infused with cinnamon, clove, and other warming spices are combined with milk and ice for the perfect balance of sweet and spicy.",
+		"Brand": "Bluebottle"
+	},
+	{
+		"ProductId": "12",
+		"ProductName": "Peach_Green-Tea",
+		"GraphicName": "Peach_Green-Tea.png",
+		"CostPrice": "8",
+		"MSRP": "9",
+		"QtyOnHand": "235",
+		"QtyOnBackOrder": "58",
+		"Description": "This boldly flavoured iced tea—made with a combination of our peach-flavoured fruit juice blend and Teavana® iced green tea, and then sweetened with liquid cane sugar and hand-shaken with ice—brings you refreshing vibes.",
+		"Brand": "Bluebottle"
+	},
+	{
+		"ProductId": "13",
+		"ProductName": "Matcha-Tea",
+		"GraphicName": "Matcha-Tea.png",
+		"CostPrice": "8",
+		"MSRP": "9",
+		"QtyOnHand": "321",
+		"QtyOnBackOrder": "42",
+		"Description": "Smooth and creamy matcha sweetened just right and served with milk over ice. Green has never tasted so good.",
+		"Brand": "Bluebottle"
+	},
+	{
+		"ProductId": "14",
+		"ProductName": "Matcha_Lemonade",
+		"GraphicName": "Matcha_Lemonade.png",
+		"CostPrice": "7",
+		"MSRP": "8",
+		"QtyOnHand": "322",
+		"QtyOnBackOrder": "97",
+		"Description": "Our finely ground Teavana® matcha green tea is combined with crisp lemonade then shaken with ice to create a refreshingly sweet, delicious drink that's a delightfully vibrant, green-hue.",
+		"Brand": "Bluebottle"
+	},
+	{
+		"ProductId": "15",
+		"ProductName": "Passion_Tango-Tea",
+		"GraphicName": "Passion_Tango-Tea.png",
+		"CostPrice": "7",
+		"MSRP": "8",
+		"QtyOnHand": "231",
+		"QtyOnBackOrder": "9",
+		"Description": "A blend of hibiscus, lemongrass and apple sweetened just right and handshaken with ice. A refreshingly vibrant tea infused with the colour of passion.",
+		"Brand": "Bluebottle"
+	}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
